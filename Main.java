@@ -27,7 +27,7 @@ public class Main extends JFrame implements ActionListener
   private JCheckBox cheese, mushrooms, pepperoni;
   private ArrayList<String> top;
   private JTextField display;
-    
+    //stuff so i can commit
     
   public Main()
   {
